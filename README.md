@@ -54,3 +54,6 @@ Notebook **202231059_Renata_Yasmine_Selomita_Aplikasi_Skripsi.ipynb** mencakup l
 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+
+### ✒️ Penulis 
+Renata Yasmine Selomita Peneliti / Mahasiswa Tingkat Akhir - Teknik Informatika
