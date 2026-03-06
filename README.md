@@ -55,5 +55,8 @@ Notebook **202231059_Renata_Yasmine_Selomita_Aplikasi_Skripsi.ipynb** mencakup l
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 
+4. Buka file .ipynb di Google Colab atau Jupyter Notebook.
+5. Sesuaikan path direktori data pada bagian base = "/content/drive/My Drive/SKRIPSI/" sesuai dengan lokasi file CSV Anda.
+
 ### ✒️ Penulis 
 Renata Yasmine Selomita Peneliti / Mahasiswa Tingkat Akhir - Teknik Informatika
